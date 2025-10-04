@@ -2,21 +2,31 @@
 
 Check out my [website here](ar2116.github.io) 
 
-## Languages
+## About
+
+### Working on
+
+Pygame and other languages
+
+### Languages
 
 - English
 - Farsi
 - Html
 - python
-- 
-## About
+
 Him/He
+
 Night Owl
+
 Likes to use AI
 
-**Check Out My Other Projects** 
+###**Check Out My Other Projects** 
+
 [Simplex Map](https://ar2116.github.io/Simplex-Noise/)
+
 [Idea Generator](https://ar2116.github.io/Idea-Generator/)
+
 <!--
 **ar2116/ar2116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

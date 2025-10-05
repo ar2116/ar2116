@@ -4,6 +4,12 @@ Check out my [website here](ar2116.github.io)
 
 ## About
 
+Him/He
+
+Night Owl
+
+Likes to use AI
+
 ### Working on
 
 Pygame and other languages
@@ -14,12 +20,6 @@ Pygame and other languages
 - Farsi
 - Html
 - python
-
-Him/He
-
-Night Owl
-
-Likes to use AI
 
 ###**Check Out My Other Projects** 
 

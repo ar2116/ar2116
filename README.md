@@ -13,7 +13,9 @@ Likes to use AI
 ### Working on
 
 Pygame and other languages
+
 Python Prob
+
 Websites with AI
 
 ### Languages

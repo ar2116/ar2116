@@ -25,7 +25,7 @@ Websites with AI
 - Html
 - python
 
-###**Check Out My Other Projects** 
+### **Check Out My Other Projects** 
 
 [Simplex Map](https://ar2116.github.io/Simplex-Noise/)
 
